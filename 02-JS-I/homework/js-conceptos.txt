@@ -1,0 +1,35 @@
+
+1️⃣ var => Una variable es una forma de guardar datos para usar mas tarde. su palabra clave es var.
+
+2️⃣ let => es una variable similar a var ⏫ pero se comporta diferente. Es una nueva palabra clave de la version ES6.
+
+3️⃣ const =>  Es una variable que no se podra cambiar, la palabra clave const significa `constante`. Tambien es de ES6.
+
+////////////////////////////////////////////////////////////
+/////  ES5 es la version de JS, hoy dia existe ES6 ////////
+////   que es la nueva version!!!  👍              ///////
+/////////////////////////////////////////////////////////
+
+
+4️⃣ STRINGS => string es un tipo de dato que se utiliza para las cadenas de textos. Siempre deben ir en comillas. ejemplo
+
+var miNombre = "gabriela";
+
+5️⃣ FUNCIONES => las funciones son muy importantes en todos los lenguajes de programacion, son tipos particulares de objetos, por los que tienen las mismas propiedades que cualquier objeto. ejemplo:
+
+function miFuncion() {}
+
+6️⃣ ARGUMENTOS: ya que tenemos una funcion definida podemos pasarle argumentos, ellos se definen dentro del parentesis. ejemplo:
+
+function miNombre(gabriela) {
+
+}
+miNombre(gabriela);
+
+
+7️⃣ Declaracion "if" => Usamos la palabra clave `if`, para verificar si algo es true o false.
+A esto se le llama "flujo de control".
+
+8️⃣ Valores Booleanos => los datos booleanos, significa que tiene dos opciones.. retorna true o false.
+
+

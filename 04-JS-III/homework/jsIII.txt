@@ -1,0 +1,13 @@
+
+🦄 ARRAYS 🦄
+
+1️⃣ los arrays que en español significa (Matrices/Arreglos). Son contenedores de almacenamiento para colocciones de datos. Construir un array es simple:
+          1️⃣ Debes declarar una variable y establecerla en corchetes [].
+          2️⃣ los arrays pueden contener multiples tipos de datos deiferentes.
+
+Los arrays tienen varios metodos, en esta leccion conocimos 4 metodos nuevos y repasamos el metodo (.length).
+
+1️⃣ .push => Se refiere a la adicion de elementos de la matriz despues de su declaracion inicial.
+2️⃣ .pop =>  Se refiere a la eliminacion de elementos de la matriz despues de su declaracion inicial.
+3️⃣ 4️⃣  .unshift and .shift => Son exactamente como el .push y el .pop excepto que operan en el primer elemento de la matriz.
+

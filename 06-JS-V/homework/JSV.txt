@@ -1,0 +1,8 @@
+1️⃣ Prototype => Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí, para ser exactos, los métodos y propiedades son definidos en la propiedad prototype, que reside en la función constructora del objeto, no en la instancia misma del objeto. 
+
+
+2️⃣ Constructor => El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase. Sólo puede haber un método especial con el nombre de "constructor" en una clase. Un error de sintaxis será lanzado, si la clase contiene más de una ocurrencia de un método constructor. 
+
+Un constructor puede utilizar la palabra clave super para llamar al constructor de una clase padre.
+
+Si no especifica un método constructor, se utiliza un constructor predeterminado.

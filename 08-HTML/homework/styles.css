@@ -1,0 +1,28 @@
+h1 {
+    color: #24bdbd;
+    margin-left: 40px
+    box-shadow: 0 0 6px 0 grey; /* Queria experimentar algo diferente */
+}
+img {
+    width: 400px;
+    height: 250px; /* Colocamos altura para que esteticamente se vea mejor*/
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: #24bdbd; /* html color picker para elegir un color mas   
+                                  personalizado*/
+    padding: 50px;
+    border: 4px solid #dbbe2c;
+    box-shadow: 0 0 6px 0 grey;
+    margin-top: 30px;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    margin: 100px;
+    background-color: #c7c399;
+}

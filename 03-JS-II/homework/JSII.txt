@@ -1,0 +1,12 @@
+1️⃣ `For` loops (bucles) => el bucle `for` evalua expresiones una y otra vez, hasta que devuelve lo que estamos buscando  o se detiene despues de cierto tiempo. La sintaxis de los bucles `for` es, la palabra cave `for`, seguida de parentesis () y luego abrir y cerrar llaves {}. Dentro de los parentesis necesitamos tres cosas. 
+      1️⃣ Declarar una variable. (es lo que se va a repetir en el bucle)
+      2️⃣ Expresion condicional (el bucle seguira ejecutandose hasta que esta declaracion sea falsa)
+      3️⃣ Incrementamos la variable.
+
+❗❗⛔ Las tres declaraciones deben estar separadas por un punto y coma (;).
+
+
+2️⃣ Operadores logicos (continuacion)
+    1️⃣  && significa en el codigo `AND ` en ingles. (`y` en español).
+    2️⃣  || significa en el codigo `OR` en ingles. (`o` en español).
+    3️⃣  !  significa en el codigo `NOT` en ingles. (`no` en español).

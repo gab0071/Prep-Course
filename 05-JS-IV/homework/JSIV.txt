@@ -1,0 +1,18 @@
+1️⃣ Objetos => Los objetos en JavaScript, como en tantos otros lenguajes de programación, se pueden comparar con objetos de la vida real. El concepto de Objetos en JavaScript se puede entender con objetos tangibles de la vida real.
+
+En JavaScript, un objeto es un entidad independiente con propiedades y tipos. Compáralo con una taza, por ejemplo. Una taza es un objeto con propiedades. Una taza tiene un color, un diseño, un peso, un material del que está hecha, etc. Del mismo modo, los objetos de JavaScript pueden tener propiedades que definan sus características.
+
+
+2️⃣ Propiedades => Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor. 
+
+3️⃣ Metodos => Un metodo es una función la cual es propiedad de un Objeto. Existen dos tipos de métodos: Métodos de Instancia los cuales son tareas integradas realizadas por la instacia de un objeto, y los Métodos Estáticos que son tareas que pueden ser llamadas directamente en el constructor de un objeto.
+
+4️⃣ Bucle 'for.. in' => La instrucción for-in itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas (ignorando los codificados por Símbolos, incluidas las propiedades enumerables heredadas.
+
+5️⃣ Notación de puntos vs notación de corchetes => 
+
+⚫ Notación de puntos
+Esta es la forma más popular y utilizada de acceder a la propiedad de un objeto. Esto hace que el código sea más legible. La notación de puntos se utiliza con mayor frecuencia.
+
+⚫ Notación de corchetes
+La notación entre corchetes se utiliza cuando el nombre de la propiedad es un identificador no válido (comienza con un número, contiene símbolos).
